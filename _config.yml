@@ -15,7 +15,7 @@ name: &name "Kolja Reuter"
 description: &description "B.Sc. (Astro-) & Physics"
 url: https://koljareuter.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "koljareuter/Website.github.io"
+repository: "koljareuter.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
