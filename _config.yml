@@ -20,10 +20,10 @@ remote_theme: "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  avatar: "profile.png"
+  avatar: "Image_with_drink.jpg"
   name: "Kolja"
   pronouns: # example: "she/her" (left blank as in original)
-  bio: "Extragalactic Astronomy"
+  bio: "Specialized in Extragalactic Astronomy"
   location: "Germany"
   employer: "Ruprecht-Karls University Heidelberg"
   uri: # URL (left blank)
