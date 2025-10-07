@@ -4,22 +4,13 @@ excerpt: "A student pub for everybody"
 collection: portfolio
 ---
 
+{% include base_path %}
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
 For two years, I ran BAR 133, a student pub where people could grab a beer and decompress after staring at equations or data all day. It was equal parts chaos and fun—think pouring drinks, organizing events, keeping everything running smoothly, and occasionally dealing with the inevitable weirdness that comes with running a bar.
 
 Turns out, managing a pub isn't that different from managing research projects. You learn to juggle a million things at once, work with a team, solve problems on the fly, and keep people happy. 
 
 
-{% include base_path %}
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-
-
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
