@@ -24,7 +24,7 @@ main:
   #  url: /teaching/    
     
   - title: "Bar133 & Hobbys"
-    url: _pages/portfolio.html
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
