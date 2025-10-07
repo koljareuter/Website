@@ -4,6 +4,6 @@ permalink: /about/
 ---
 
 I am a Master's student in Physics at [Your University], focusing on galaxy evolution and AGN feedback.  
-My research combines observational spectroscopy and simulations to understand the interplay between SMBHs and star formation.
+My research focusses on observational spectroscopy and tries to investigate the interplay between AGNs and galaxy evolution. To achieve this goal i have worked with the MaNGA-, as well as the KMOS3D-Sample and combined in depth-studies of single galaxies, as well as statistical approaches of hundreds of galaxies.
 
 [Download CV (PDF)](/files/cv.pdf)
