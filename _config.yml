@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "default" # Currently available options are "default", "air"
+site_theme: "air" # Currently available options are "default", "air"
 title: "Kolja Reuter"
 title_separator: "-"
 name: &name "Kolja Reuter"
@@ -45,7 +45,7 @@ author:
   bitbucket: # Username (left blank)
   codepen: # Username (left blank)
   dribbble: # Username (left blank)
-  github: "https://github.com/koljareuter"
+  github: "koljareuter"
   kaggle: # Username (left blank)
   stackoverflow: # User number or user number and name (left blank)
 
